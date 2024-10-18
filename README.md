@@ -1,4 +1,4 @@
-# Medication-web-app
+# Meditation-web-app
 
 Overview
 This is a simple web-based Audio App that allows users to play audio with a synchronized video background. Users can select different audio and video combinations and set a timer for the playback duration.
